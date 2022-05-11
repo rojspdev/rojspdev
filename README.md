@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rory Mclntosh</h1>
-<h3 align="center">Javascript, Python</h3>
+<h3 align="center">Vue.js / PHP developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojspdev&label=Profile%20views&color=0e75b6&style=flat" alt="rojspdev" /> </p>
 
-- 🌱 I’m currently learning **Javascript, Python**
+- 🌱 I’m currently learning **Vue.js / PHP developer**
 
-- 💬 Ask me about **Javascript, Python**
+- 💬 Ask me about **Vue.js / PHP developer**
 
 - 📫 How to reach me **rory.mctosh33@gmail.com**
 
